@@ -19,8 +19,6 @@ class ViewController: UIViewController {
         
         //commit to be cherry picked
         //second commit to be cherry picked
-        
-        //changes to be just fetched and not pulled
     }
 
 
